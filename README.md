@@ -24,13 +24,13 @@ The motivation is to build a robot to solve this challenge with 100% accuracy in
 ### Demo Video
 
 ### Steps in the project execution
-1.Read excel file data values using read range activity
-2.Open browser to visit "www.rpachallenge.com"
-3.Use anchor base activity->find element and type into activity to input form fields
-4.Use anchor base for all the form fields
-5.Use click activity to click on submit botton
-6.Use loop(step 3- step 5) to type into all fields for every round
-7.after all 10 rounds, the web site will show you the result with achieved accuracy and time
+1.Read excel file data values using read range activity</br>
+2.Open browser to visit "www.rpachallenge.com"</br>
+3.Use anchor base activity->find element and type into activity to input form fields</br>
+4.Use anchor base for all the form fields</br>
+5.Use click activity to click on submit botton</br>
+6.Use loop(step 3- step 5) to type into all fields for every round</br>
+7.after all 10 rounds, the web site will show you the result with achieved accuracy and time</br>
 
 ### Technical Aspect
 Dependencies:
