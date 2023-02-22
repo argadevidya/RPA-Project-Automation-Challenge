@@ -49,7 +49,7 @@ Let us start by going to the UiPath Community edition page at www.uipath.com/dev
 7.	When you get to the License screen, click on ‘Activate Community Edition’. The licenses for UiPath Studio and Robot will be activated. 
 8.	Congrats! A browser tab should open up indicating that UiPath has been installed. 
 9.	Go to Windows “Start” and look for “UiPath Studio”. Click on it to open the Studio.
-#### Step 2: Download project folder, Unzip project folder
+#### Step 2: Download project folder "Project-RPA Challenge.zip", Unzip project folder
 #### Step 3: Open "www.rpachallenge.com" , Click on "Download Excel" to download excel file
 #### Step 4: Open UiPath Studio and open project file from folder
 #### Step 5: Open main workflow:In Excel application scope,enter the path of downloaded excel file.
