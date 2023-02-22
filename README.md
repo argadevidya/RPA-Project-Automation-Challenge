@@ -53,4 +53,4 @@ Let us start by going to the UiPath Community edition page at www.uipath.com/dev
 #### Step 3: Open "www.rpachallenge.com" , Click on "Download Excel" to download excel file
 #### Step 4: Open UiPath Studio and open project file from folder
 #### Step 5: Open main workflow:In Excel application scope,enter the path of downloaded excel file.
-#### Step 6: Save process and Run file and see the result.
+#### Step 6: Save process and run file and see the result.
